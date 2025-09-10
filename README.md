@@ -1,4 +1,3 @@
-Here’s a **clean, ready-to-use README.md** for your project. You can copy-paste it directly on GitHub:
 
 ````markdown
 # CampusConnectPlus
