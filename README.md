@@ -45,11 +45,3 @@ MIT License
 
 ```
 
----
-
-💡 **Tips:**  
-- Replace the `![Home Screen]` and `![Events Screen]` links with actual screenshots if you want it to look extra professional.  
-- You can add badges at the top like React Native version, Expo SDK, or license.  
-
-If you want, I can make a **version with badges included** so it looks super polished and professional. Want me to do that?
-```
